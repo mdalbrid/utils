@@ -12,7 +12,7 @@
 
 `/server` - реализация сервера по спецификации JsonRpc 2.0
 
-`/config` - концигурация Postgress, для чтения файла конфигурации используется viper ( github.com/spf13/viper )
+`/config` - концигурация Postgress, для чтения файла конфигурации используется viper ( https://github.com/spf13/viper )
 
 `/validators` - ‿︵‿ヽ(°□° )ノ︵‿︵
 
