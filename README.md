@@ -1,15 +1,19 @@
 # utils
-API helpers
+
+----
+###### API helpers
+
+----
 
 
-/logger - обертка для логирования, используется библиотека logrus
+`/logger` - обертка для логирования, используется библиотека logrus
 
-/contexts - https://pkg.go.dev/context
+`/contexts` - https://pkg.go.dev/context
 
-/server - реализация сервера по спецификации JsonRpc 2.0
+`/server` - реализация сервера по спецификации JsonRpc 2.0
 
-/config - концигурация Postgress, для чтения файла конфигурации используется viper ( github.com/spf13/viper )
+`/config` - концигурация Postgress, для чтения файла конфигурации используется viper ( github.com/spf13/viper )
 
-/validators - ‿︵‿ヽ(°□° )ノ︵‿︵
+`/validators` - ‿︵‿ヽ(°□° )ノ︵‿︵
 
 
